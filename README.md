@@ -23,3 +23,7 @@ This is the backend for the User Management System, built with **Node.js, Expres
    ```sh
    git clone https://github.com/meghabhansali2911/user-management-backend.git
    cd user-management-backend
+
+ 2. Install dependencies:
+   ```sh
+   npm install
